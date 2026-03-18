@@ -98,10 +98,9 @@ Advanced SQL techniques such as window functions were used to:
 <img width="691" height="485" alt="image" src="https://github.com/user-attachments/assets/82008507-f9ee-43d0-b732-6435a17d1ba6" />
 <img width="763" height="456" alt="image" src="https://github.com/user-attachments/assets/a59890ba-2adf-4e92-b642-797e324c6d3e" />
 <img width="771" height="397" alt="image" src="https://github.com/user-attachments/assets/e5ec9ed5-a8de-4ea3-b2c3-b366219b229f" />
-
-
-
-
+<img width="932" height="458" alt="image" src="https://github.com/user-attachments/assets/736ee56f-48bc-4a7d-aaa4-cf39086589ce" />
+<img width="1002" height="450" alt="image" src="https://github.com/user-attachments/assets/9db3f646-01a8-4a6f-8558-704a673d9c71" />
+<img width="1062" height="438" alt="image" src="https://github.com/user-attachments/assets/9d04ae7b-d3b3-459c-a5e9-ba760b01b934" />
 
 ---
 
