@@ -29,9 +29,9 @@ It demonstrates the use of SQL concepts such as joins, aggregations, window func
 ```
 employee-sql-project/
 │
-├── queries.sql              -- Basic SQL queries
-├── advanced_queries.sql     -- Window function queries
-├── README.md               -- Project documentation
+├── employeedatabaseanalysis.sql -- SQL queries
+├── Screenshots.doc               -- To view screen shots of outputs
+├── README.md                     -- Project documentation
 ```
 
 ---
