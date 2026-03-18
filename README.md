@@ -95,6 +95,9 @@ Advanced SQL techniques such as window functions were used to:
 * Compare current and previous salaries
 ## Screen shots of sample outputs
 <img width="746" height="451" alt="image" src="https://github.com/user-attachments/assets/2c1c72e9-14f1-48ba-86ab-76f06620abf2" />
+
+---
+
 <img width="691" height="485" alt="image" src="https://github.com/user-attachments/assets/82008507-f9ee-43d0-b732-6435a17d1ba6" />
 <img width="763" height="456" alt="image" src="https://github.com/user-attachments/assets/a59890ba-2adf-4e92-b642-797e324c6d3e" />
 <img width="771" height="397" alt="image" src="https://github.com/user-attachments/assets/e5ec9ed5-a8de-4ea3-b2c3-b366219b229f" />
