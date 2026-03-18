@@ -126,8 +126,8 @@ Advanced SQL techniques such as window functions were used to:
 
 1. Import the employee database into MySQL
 2. Open MySQL Workbench
-3. Run `queries.sql` for basic analysis
-4. Run `advanced_queries.sql` for advanced insights
+3. Run `employeedatabaseanalysis.sql` for analysis
+
 
 ---
 
